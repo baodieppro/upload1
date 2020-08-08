@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  MyBrowser
+
+  Created by luowei on 15/6/26.
+  Copyright (c) 2015年 wodedata. All rights reserved.
+*/
+"HomeURL" = "https://onbibi.com/search";
+"SearchURL" = "https://onbibi.com/search?q=%@";
+
+
+"My Browser" = "Onbibi Browser";
+"OK" = "OK";
+"Cancel" = "Hủy";
+"Close" = "Đóng";
+"Error" = "Lỗi";
+"Open" = "Mở";
+"Call" = "Call";
+"Close All" = "Đóng Tất Cả";
+"Bookmarks" = "Dấu Trang";
+"Nighttime" = "Nighttime";
+"Daytime" = "Daytime";
+"No Image" = "Không Hình Ảnh";
+"Ad Block" = "Chặn Quảng Cáo";
+"Image Mode" = "Có Hình Ảnh";
+"No AdBlock" = "Tắt Chặn QC";
+"About Me" = "Về Chúng Tôi";
+"Keyword or Url" = "Tìm kiếm từ khóa hoặc nhập trang web...";
+"Add Favorite Success" = "Đã thêm vào mục yêu thích";
+"Update Favorite Success" = "Update Favorite Success";
+"Favorites" = "Yêu Thích";
+"History" = "Lịch Sử";
+"Has Been Favorited" = "You Has Been Favorited";
+"Clear History" = "Xóa lịch sử";
+"Clear All History" = "Xóa tất cả";
+"Successfully cleared Footprint" = "Successfully cleared Footprint";
+"Successfully Set NoImage Mode" = "Successfully Set NoImage Mode";
+"Clear History Success" = "Đã xóa";
+"Add Favorite" = "Add Favorite";
+"Update Favorite" = "Update Favorite";
+"Editing isn't Saved" = "Editing isn't Saved";
+"Title" = "Tiêu đề";
+"Url Address" = "Địa chỉ web";
+"Is Empty" = "Is Empty";
+"Scan RQ Code" = "Quét mã QR";
+"Url Saved,Open Now ?" = "Url Saved in Pasteboard,Open Now ?";
+"Not Url Saved in Pasteboard" = "Not Url,Saved in Pasteboard";
+"RQ Code" = "QR Code";
+"ReScan" = "Quét lại";
+"Unable Open Web Page With NetWork Disconnected" = "Không thể mở trang, vui lòng kiểm tra lại đường truyền";
+"HTTPS Certifcate Not Trust" = "Unable to verify the server Certifcate\n Onbibi Browser unable to verify%@'s certification. Are you continue?";
