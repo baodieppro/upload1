@@ -8,7 +8,7 @@
 "HomeURL" = "https://onbibi.com/search";
 "SearchURL" = "https://onbibi.com/search?q=%@";
 
-"My Browser" = "Thank you for using Onbibi";
+"My Browser" = "Onbibi Browser";
 "OK" = "حسنا";
 "Cancel" = "إلغاء";
 "Close" = "قريب";
