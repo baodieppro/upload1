@@ -261,7 +261,6 @@
     }];
     [alertController addTextFieldWithConfigurationHandler:^(UITextField *textField) {
         textField.keyboardType = UIKeyboardTypeURL;
-        textField.selectedTextRange = textField.textRangeFromPosition(textField.beginningOfDocument, toPosition: textField.endOfDocument);
         textField.placeholder = NSLocalizedString(@"Url Address", nil);
     }];
 
