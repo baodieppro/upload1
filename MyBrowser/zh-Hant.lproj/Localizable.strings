@@ -5,10 +5,10 @@
   Created by luowei on 15/6/26.
   Copyright (c) 2015年 wodedata. All rights reserved.
 */
-"HomeURL" = "http://mybrowser.wodedata.com";
-"SearchURL" = "http://www.baidu.com/s?wd=%@";
+"HomeURL" = "https://onbibi.com/search";
+"SearchURL" = "https://onbibi.com/search?q=%@";
 
-"My Browser" = "謝謝支持我的瀏覽器\n http://luowei.github.com";
+"My Browser" = "Onbibi Browser";
 "OK" = "確定";
 "Cancel" = "取消";
 "Close" = "關閉";
