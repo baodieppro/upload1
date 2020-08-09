@@ -51,7 +51,7 @@ NSString *const CellReuseIdentifier = @"CellReuseIdentifier";
     _collectionView.dataSource = self;
     _collectionView.delegate = self;
     [_collectionView registerClass:[NFTabCollectionViewCell class] forCellWithReuseIdentifier:CellReuseIdentifier];
-    _collectionView.backgroundColor = [UIColor lightGrayColor];
+    _collectionView.backgroundColor = [UIColor whiteColor];
     [self.view addSubview:_collectionView];
 
     //添加约束
