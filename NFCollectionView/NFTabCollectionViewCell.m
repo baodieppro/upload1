@@ -25,7 +25,7 @@
 
         //titleView
         UIView *titleView = [[UIView alloc] initWithFrame:CGRectMake(0, 0, frame.size.width, 40)];
-        titleView.backgroundColor = [UIColor lightGrayColor];
+        titleView.backgroundColor = [UIColor whiteColor];
         [self.contentView addSubview:titleView];
 
         titleView.translatesAutoresizingMaskIntoConstraints = NO;
