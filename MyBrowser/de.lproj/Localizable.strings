@@ -41,10 +41,10 @@
 "Title" = "Titel";
 "Url Address" = "URL-Adresse";
 "Is Empty" = "ist Leer";
-"Scan RQ Code" = "Scan RQ-Code";
+"Scan RQ Code" = "Scan QR-Code";
 "Url Saved,Open Now ?" = "Url in Pasteboard gespeichert, Open Now?";
 "Not Url Saved in Pasteboard" = "Nicht Url, in Pappe Gespeichert";
-"RQ Code" = "RQ-Code";
+"RQ Code" = "QR-Code";
 "ReScan" = "ReScan";
 "Unable Open Web Page With NetWork Disconnected" = "Nicht öffnen Sie die Seite, überprüfen Sie die Netzwerkeinstellungen";
 "HTTPS Certifcate Not Trust" = "Nicht in der Lage, um den Server-Zertifikat\n Ihr Browser nicht in der Lage zu überprüfen, überprüfen, %@ 'eine Zertifizierung. Sind Sie weitermachen?";
