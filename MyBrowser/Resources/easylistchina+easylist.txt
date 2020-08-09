@@ -11669,6 +11669,7 @@ www.google.com#@##videoads
 ! Onbibi
 @@onbibi.com
 @@onbibi.vn
+@@onbibi.com/search?*
 @@onbibi.org
 @@networks.onbibi.com
 @@play.onbibi.com
@@ -11678,6 +11679,9 @@ www.google.com#@##videoads
 @@^*.onbibi.com
 @@^*.onbibi.^*
 @@onbibi.^*
+@@||cse.google.com/adsense/search/async-ads.js
+@@||cse.google.com/cse_v2/ads*
+@@||cse.google.com/^*
 ! Google Hosted scripts
 ||googleapis.com/qmftp/$script
 ||googleapis.com/yieldlab/$script
