@@ -41,7 +41,7 @@
 "Title" = "título";
 "Url Address" = "Url Dirección";
 "Is Empty" = "esta vacio";
-"Scan RQ Code" = "Scan Código RQ";
+"Scan RQ Code" = "Scan Código QR";
 "Url Saved,Open Now ?" = "Url Guardado en cartón, Abierto ahora?";
 "Not Url Saved in Pasteboard" = "No Url, Guardado en cartón";
 "RQ Code" = "código QR";
