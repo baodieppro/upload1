@@ -172,7 +172,7 @@ static WKProcessPool *_pool;
         _netStatusLabel.alpha = 0;
         _netStatusLabel.text = NSLocalizedString(@"Unable Open Web Page With NetWork Disconnected", nil);
         _netStatusLabel.font = [UIFont systemFontOfSize:20.0];
-        _netStatusLabel.textColor = [UIColor grayColor];
+        _netStatusLabel.textColor = [UIColor whiteColor];
         [_netStatusLabel sizeToFit];
         _netStatusLabel.center = CGPointMake(self.frame.size.width / 2, self.frame.size.height / 2);
         [self addSubview:_netStatusLabel];
