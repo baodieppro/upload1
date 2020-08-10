@@ -49,7 +49,7 @@
         self.closeBtn = [UIButton buttonWithType:UIButtonTypeCustom];
         [self.closeBtn setTitle:@"Χ" forState:UIControlStateNormal];
         [self.closeBtn setTitleColor:[UIColor whiteColor] forState:UIControlStateNormal];
-        [self.closeBtn setTitleColor:[UIColor blueColor] forState:UIControlStateHighlighted];
+        [self.closeBtn setTitleColor:[UIColor greenColor] forState:UIControlStateHighlighted];
         self.closeBtn.frame = CGRectMake(0, 0, 40, 40);
         [titleView addSubview:self.closeBtn];
 
