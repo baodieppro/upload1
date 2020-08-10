@@ -16,7 +16,7 @@
 "Open" = "ouvert";
 "Call" = "Dial";
 "Close All" = "Ferme Tout";
-"Bookmarks" = "signets";
+"Bookmarks" = "Histoire/Signets";
 "Nighttime" = "modo nuit";
 "Daytime" = "Mode jour";
 "No Image" = "Mode NoImage";
@@ -45,6 +45,6 @@
 "Url Saved,Open Now ?" = "Url Enregistré dans carton, Ouvert maintenant?";
 "Not Url Saved in Pasteboard" = "Non Url, Saved en carton";
 "RQ Code" = "code de QR";
-"ReScan" = "ReScan";
+"ReScan" = "Rescan";
 "Unable Open Web Page With NetWork Disconnected" = "Pas ouvrir la page, vérifier les paramètres réseau";
 "HTTPS Certifcate Not Trust" = "Impossible de vérifier le certificat du serveur\n mon navigateur incapable de vérifier %@ 'une certification. Est-ce que vous continuez?";
