@@ -28,7 +28,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 
-    [_webView loadRequest:[NSURLRequest requestWithURL:[NSURL URLWithString:@"http://m.2345.com"]]];
+    [_webView loadRequest:[NSURLRequest requestWithURL:[NSURL URLWithString:@"https://https://onbibi.com/search"]]];
 //    [self injectJS];
     
     
