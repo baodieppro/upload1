@@ -77,7 +77,6 @@
     self.searchBar.searchBarStyle = UISearchBarStyleMinimal;
     self.searchBar.delegate = self;
     self.searchBar.placeholder = NSLocalizedString(@"Keyword or Url", nil);//@"搜索或输入地址";
-    self.searchBar.selectedTextRange = self.searchBar.textRange(from: self.searchBar.beginningOfDocument, to: self.searchBar.endOfDocument);
     self.searchBar.autocapitalizationType = UITextAutocapitalizationTypeNone;
     self.searchBar.autocorrectionType = UITextAutocorrectionTypeYes;
 
@@ -202,6 +201,16 @@
 #pragma mark UISearchBarDelegate Implementation
 
 - (void)searchBarTextDidBeginEditing:(UISearchBar *)searchBar {
+    firstEdit = YES;
+}
+- (BOOL)searchBar:(UISearchBar *)searchBar
+shouldChangeTextInRange:(NSRange)range
+replacementText:(NSString *)text {
+if (firstEdit) {
+searchBar.text = text;
+firstEdit = NO;
+}
+return YES;
 }
 
 - (void)searchBarTextDidEndEditing:(UISearchBar *)searchBar {
