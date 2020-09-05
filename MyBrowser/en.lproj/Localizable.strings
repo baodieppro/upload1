@@ -5,7 +5,7 @@
   Created by luowei on 15/6/26.
   Copyright (c) 2015年 wodedata. All rights reserved.
 */
-"HomeURL" = "https://onbibi.com/search";
+"HomeURL" = "https://onbibi.com/mobile";
 "SearchURL" = "https://onbibi.com/search?q=%@";
 
 
@@ -25,7 +25,7 @@
 "Image Mode" = "Image Mode";
 "No AdBlock" = "No AdBlock";
 "About Me" = "About Me";
-"Keyword or Url" = "Keyword or Url";
+"Keyword or Url" = "Search the web...";
 "Add Favorite Success" = "Add Favorite Success";
 "Update Favorite Success" = "Update Favorite Success";
 "Favorites" = "Favorites";
