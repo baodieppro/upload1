@@ -5,7 +5,7 @@
   Created by luowei on 15/6/26.
   Copyright (c) 2015年 wodedata. All rights reserved.
 */
-"HomeURL" = "https://onbibi.com/search";
+"HomeURL" = "https://onbibi.com/mobile";
 "SearchURL" = "https://onbibi.com/search?q=%@";
 
 "My Browser" = "Onbibi Browser";
@@ -16,7 +16,7 @@
 "Open" = "열린";
 "Call" = "다이얼";
 "Close All" = "모두 닫기";
-"Bookmarks" = "역사&즐겨 찾기";
+"Bookmarks" = "역사";
 "Nighttime" = "야간 모드";
 "Daytime" = "주간 모드";
 "No Image" = "NoImage 모드";
