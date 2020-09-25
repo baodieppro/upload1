@@ -5,8 +5,8 @@
   Created by luowei on 15/6/26.
   Copyright (c) 2015年 wodedata. All rights reserved.
 */
-"HomeURL" = "https://baidu.com";
-"SearchURL" = "https://www.baidu.com/s?wd=%@";
+"HomeURL" = "https://onbibi.com/m";
+"SearchURL" = "https://onbibi.com/search?q=%@";
 
 "My Browser" = "Onbibi Browser";
 "OK" = "确定";
