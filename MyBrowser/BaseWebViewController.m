@@ -201,16 +201,6 @@
 #pragma mark UISearchBarDelegate Implementation
 
 - (void)searchBarTextDidBeginEditing:(UISearchBar *)searchBar {
-    firstEdit = YES;
-}
-- (BOOL)searchBar:(UISearchBar *)searchBar
-shouldChangeTextInRange:(NSRange)range
-replacementText:(NSString *)text {
-if (firstEdit) {
-searchBar.text = text;
-firstEdit = NO;
-}
-return YES;
 }
 
 - (void)searchBarTextDidEndEditing:(UISearchBar *)searchBar {
