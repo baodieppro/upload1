@@ -28,7 +28,7 @@
 		<true/>
 		<key>NSExceptionDomains</key>
 		<dict>
-			<key>google.com</key>
+			<key>example.com</key>
 			<dict>
 				<key>NSExceptionAllowsInsecureHTTPLoads</key>
 				<false/>
