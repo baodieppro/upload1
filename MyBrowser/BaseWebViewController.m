@@ -76,9 +76,9 @@
     self.searchBar = [UISearchBar new];
     self.searchBar.searchBarStyle = UISearchBarStyleMinimal;
     self.searchBar.delegate = self;
-    self.searchBar.placeholder = NSLocalizedString(@"Keyword or Url", nil);//@"搜索或输入地址";
+    self.searchBar.placeholder = NSLocalizedString(@"Search the web...", nil);//@"搜索或输入地址";
     self.searchBar.autocapitalizationType = UITextAutocapitalizationTypeNone;
-    self.searchBar.autocorrectionType = UITextAutocorrectionTypeYes;
+    self.searchBar.autocorrectionType = UITextAutocorrectionTypeNo;
 
     //二维码扫描按钮
     self.searchBar.showsBookmarkButton = YES;
